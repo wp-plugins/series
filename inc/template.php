@@ -5,7 +5,7 @@
  * @package    Series
  * @since      0.2.0
  * @author     Justin Tadlock <justin@justintadlock.com>
- * @copyright  Copyright (c) 2009 - 2013, Justin Tadlock
+ * @copyright  Copyright (c) 2009 - 2015, Justin Tadlock
  * @link       http://themehybrid.com/plugins/plugins
  * @license    http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  */
@@ -139,6 +139,3 @@ function create_series_taxonomy() {
 function series_register_widgets() {
 	_deprecated_function( __FUNCTION__, '0.2.0', '' );
 }
-
-
-?>
